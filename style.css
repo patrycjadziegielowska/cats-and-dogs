@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(242, 9, 242);
+}
+
+/* To jest komentarz */
+h2 {
+    color: rgb(70, 167, 219);
+}
+
+p,
+li {
+    color: rgb(232, 60, 140);
+
+}
+
+body {
+    background-color: rgb(207, 199, 207);
+}
